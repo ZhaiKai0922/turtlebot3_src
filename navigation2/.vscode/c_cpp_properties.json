@@ -1,0 +1,48 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/opt/ros/foxy/include/**",
+        "/home/zk/zk/robot/ros2_ws/src/src/navigation2/nav2_amcl/include/**",
+        "/home/zk/zk/robot/ros2_ws/src/src/navigation2/nav2_behavior_tree/include/**",
+        "/home/zk/zk/robot/ros2_ws/src/src/navigation2/nav2_bt_navigator/include/**",
+        "/home/zk/zk/robot/ros2_ws/src/src/navigation2/nav2_controller/include/**",
+        "/home/zk/zk/robot/ros2_ws/src/src/navigation2/nav2_core/include/**",
+        "/home/zk/zk/robot/ros2_ws/src/src/navigation2/nav2_costmap_2d/include/**",
+        "/home/zk/zk/robot/ros2_ws/src/src/navigation2/nav2_dwb_controller/costmap_queue/include/**",
+        "/home/zk/zk/robot/ros2_ws/src/src/navigation2/nav2_dwb_controller/dwb_core/include/**",
+        "/home/zk/zk/robot/ros2_ws/src/src/navigation2/nav2_dwb_controller/dwb_critics/include/**",
+        "/home/zk/zk/robot/ros2_ws/src/src/navigation2/nav2_dwb_controller/dwb_plugins/include/**",
+        "/home/zk/zk/robot/ros2_ws/src/src/navigation2/nav2_dwb_controller/nav_2d_utils/include/**",
+        "/home/zk/zk/robot/ros2_ws/src/src/navigation2/nav2_lifecycle_manager/include/**",
+        "/home/zk/zk/robot/ros2_ws/src/src/navigation2/nav2_map_server/include/**",
+        "/home/zk/zk/robot/ros2_ws/src/src/navigation2/nav2_navfn_planner/include/**",
+        "/home/zk/zk/robot/ros2_ws/src/src/navigation2/nav2_planner/include/**",
+        "/home/zk/zk/robot/ros2_ws/src/src/navigation2/nav2_recoveries/include/**",
+        "/home/zk/zk/robot/ros2_ws/src/src/navigation2/nav2_regulated_pure_pursuit_controller/include/**",
+        "/home/zk/zk/robot/ros2_ws/src/src/navigation2/nav2_rviz_plugins/include/**",
+        "/home/zk/zk/robot/ros2_ws/src/src/navigation2/nav2_util/include/**",
+        "/home/zk/zk/robot/ros2_ws/src/src/navigation2/nav2_voxel_grid/include/**",
+        "/home/zk/zk/robot/ros2_ws/src/src/navigation2/nav2_waypoint_follower/include/**",
+        "/home/zk/zk/robot/ros2_ws/src/src/navigation2/smac_planner/include/**",
+        "/home/zk/zk/robot/ros2_ws/src/src/navigation2_tutorials/nav2_gradient_costmap_plugin/include/**",
+        "/home/zk/zk/robot/ros2_ws/src/src/navigation2_tutorials/nav2_sms_behavior/include/**",
+        "/home/zk/zk/robot/ros2_ws/src/src/navigation2_tutorials/nav2_straightline_planner/include/**",
+        "/home/zk/zk/robot/ros2_ws/src/src/turtlebot3/turtlebot3_node/include/**",
+        "/home/zk/zk/robot/ros2_ws/src/src/turtlebot3_simulations/turtlebot3_fake_node/include/**",
+        "/home/zk/zk/robot/ros2_ws/src/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
